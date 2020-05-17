@@ -1,0 +1,11 @@
+[Config]
+broker = "192.168.1.10"
+username = "mqtt"
+password = "password"
+device_type = "sensor"
+device_class = ["temperature","humidity", "pressure"]
+device_name = "drivhustest"
+device_status = 1
+device_manufacturer = "JosCom"
+device_model = "rbpi3"
+device_sw_version = "1.0"
